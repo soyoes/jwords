@@ -1,0 +1,2 @@
+# jwords
+Japanese words analyzer
